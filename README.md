@@ -24,8 +24,12 @@ To get started with the **"Movie Land"** project, follow these steps:
    npm install
 
 3. Start the development server.
-
-  ```bash
-  npm start
-
+  
+     ```bash
+     npm start
+      ```
+   
+## Dependencies  
+- React
+- OMDB API
 
