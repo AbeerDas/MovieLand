@@ -1,6 +1,6 @@
 # MovieLand
 
-**"Movie Land"** is a React-based web application that allows users to search for and explore information about movies. It features a user-friendly interface for searching movies, and each movie is presented with its title, year, poster, and type. The project leverages the OMDB API to fetch movie data and provides an engaging way to discover and learn about various films.
+**"Movie Land"** is a React-based web application that allows users to search for and explore information about movies as well as different television series. It features a user-friendly interface for searching TV shows, and each show is presented with its title, year, poster, and type. The project leverages the OMDB API to fetch movie data and provides an engaging way to discover and learn about various films.
 
 <p align="center">
   <img src="screen.png" alt="Screenshot of Movie App" style="display: block; margin: 0 auto; width: 400px;">
